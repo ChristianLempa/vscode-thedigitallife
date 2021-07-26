@@ -1,0 +1,48 @@
+{
+  "name": "vscode-thedigitallife",
+  "version": "1.0.1",
+  "publisher": "xcad2k",
+  "author": "Christian Lempa",
+  "license": "MIT",
+	"displayName": "The Digital Life",
+	"description": "A Visual Studio Code theme built by Christian from The Digital Life",
+  "engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"thedigitallife",
+		"the-digital-life",
+		"dark",
+		"theme",
+		"color-theme"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#0F0F0F",
+		"theme": "dark"
+	},
+	"maintainers": [
+		"Christian Lempa <chrisitan.lempa@clcreative.de>"
+	],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcad2k/vscode-thedigitallife.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/xcad2k/vscode-thedigitallife/issues"
+  },
+  "homepage": "https://github.com/xcad2k/vscode-thedigitallife#readme",
+  "contributes": {
+		"themes": [
+			{
+				"label": "The Digital Life",
+				"uiTheme": "vs-dark",
+				"path": "./themes/the-digital-life-color-theme.json"
+			}
+		]
+	}
+}
