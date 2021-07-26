@@ -19,7 +19,7 @@
     "theme",
     "color-theme"
   ],
-  "icon": "https://raw.githubusercontent.com/xcad2k/vscode-thedigitallife/master/assets/icon.png",
+  "icon": "https://raw.githubusercontent.com/xcad2k/vscode-thedigitallife/main/assets/icon.png",
   "galleryBanner": {
     "color": "#0F0F0F",
     "theme": "dark"

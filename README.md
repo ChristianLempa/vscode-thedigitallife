@@ -4,7 +4,7 @@ A Dark, Clean, Minimal VSCode Theme
 
 A Visual Studio Code theme built by Christian from The Digital Life.
 
-<img alt="Example" src="https://raw.githubusercontent.com/xcad2k/vscode-thedigitallife/master/assets/screenshot.png">
+<img alt="Example" src="https://raw.githubusercontent.com/xcad2k/vscode-thedigitallife/main/assets/screenshot.png">
 
 ## Installation
 
@@ -21,7 +21,7 @@ A Visual Studio Code theme built by Christian from The Digital Life.
 
 If you want them same colors in Windows Terminal, take a look at my dotfiles and copy the colorscheme `xcad_tdl` from my [Windows Terminal Settings](https://github.com/xcad2k/dotfiles/blob/main/Windows/WindowsTerminal/settings.json) File.
 
-<img alt="Windows Terminal Example" src="https://raw.githubusercontent.com/xcad2k/vscode-thedigitallife/master/assets/windowsterminal.png">
+<img alt="Windows Terminal Example" src="https://raw.githubusercontent.com/xcad2k/vscode-thedigitallife/main/assets/windowsterminal.png">
 
 ---
 ## About me
